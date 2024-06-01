@@ -12,7 +12,7 @@ docker-compose.yml: Defines the services required to run the application in Dock
 
 To build and run the application using Docker:
 
-Build the Docker image:
+Build the Docker image whilst docker desktop is open:
 
 docker-compose up --build
 Access the application at http://localhost:3000 in your web browser.
